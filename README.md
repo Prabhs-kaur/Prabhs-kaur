@@ -1,6 +1,6 @@
 👋 Hi, I'm Prabhjot Kaur<br>
 
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech <br>
+👩🏻‍💻 Software Developer sharing about my journey and learnings in tech <br>
 
 💭 Currently learning MongoDB!
 
