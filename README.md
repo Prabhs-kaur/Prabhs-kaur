@@ -5,9 +5,11 @@
 💭 Currently learning MongoDB!
 
 
+
 ## 🌐 Socials:
 <a href='https://iprabhdev.netlify.app/' target="_blank"><img alt='website' src='https://img.shields.io/badge/website-100000?style=for-the-badge&logo=website&logoColor=635E5E&labelColor=CD2828&color=F137CF'/></a>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/prabhjotkaur1111/])
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhjotkaur1111/)
+
 
 
 	
